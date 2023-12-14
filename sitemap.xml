@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://giswqs.github.io/mkdocs-template/</loc>
+         <lastmod>2023-12-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/mkdocs-template/template/</loc>
+         <lastmod>2023-12-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/mkdocs-template/chapter_01/basemaps/</loc>
+         <lastmod>2023-12-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/mkdocs-template/chapter_01/intro/</loc>
+         <lastmod>2023-12-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/mkdocs-template/chapter_02/colorbar/</loc>
+         <lastmod>2023-12-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://giswqs.github.io/mkdocs-template/chapter_02/heatmap/</loc>
+         <lastmod>2023-12-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
